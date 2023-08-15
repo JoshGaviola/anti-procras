@@ -1,0 +1,9 @@
+{
+    "name": "fart",
+    "version": "1.0",
+    "description": "Farts when you are procrastinating in youtube",
+    "permission": [
+        "tabs",
+        "scripting"
+    ]
+}
